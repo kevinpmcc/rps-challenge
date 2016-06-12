@@ -38,6 +38,10 @@ class RockPaperScissors < Sinatra::Base
     end
   end
 
+  post '/results' do
+    redirect('/')
+  end
+
 
   # start the server if ruby file executed directly
   run! if app_file == $0
