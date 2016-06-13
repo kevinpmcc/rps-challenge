@@ -2,8 +2,13 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/kevinpmcc/rps-challenge/badge.svg?branch=master)](https://coveralls.io/github/kevinpmcc/rps-challenge?branch=master)
 
+
+
 Project Description
 ----------
+This has been deployed to https://kevin-rps-challenge.herokuapp.com/  
+Check it out!  
+
 This project is my Week 3 weekend challenge to build a multiplayer Rock,Paper,Scissors,Spock,Lizard(RPSlS) game.
 
 I first built a one-player version of Rock,Paper,Scissors(RPS) where you played against the computer. You can find this in branch one-player.
@@ -90,8 +95,8 @@ linkinparkbrony @ deviantart http://linkinparkbrony.deviantart.com/art/Rock-Pape
 
 Contact
 -----------
-If you'd like to get in touch
-kevinpatrickmccarthy@gmail.com
-https://github.com/kevinpmcc/
+If you'd like to get in touch  
+kevinpatrickmccarthy@gmail.com  
+https://github.com/kevinpmcc/  
 
 
